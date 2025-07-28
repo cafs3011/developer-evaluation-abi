@@ -17,7 +17,6 @@ This project is a **Sales Management API** developed as part of a technical asse
 Before running the project, ensure you have the following installed:
 
 - [.NET 8 SDK](https://dotnet.microsoft.com/en-us/download)
-- [SQL Server or SQLite](https://learn.microsoft.com/en-us/sql/?view=sql-server-ver16)
 
 ---
 
