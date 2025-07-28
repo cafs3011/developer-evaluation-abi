@@ -28,7 +28,7 @@ Follow the steps below to set up and run the project locally:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/cafs3011/developer-evaluation-sales.git
+git clone https://github.com/cafs3011/developer-evaluation-abi.git
 cd developer-evaluation-sales/template/backend
 ```
 
